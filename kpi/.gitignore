@@ -1,0 +1,7 @@
+node_modules/
+.env
+kpi.db
+*.db
+.ssh/
+.vscode/
+node_modules/

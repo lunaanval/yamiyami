@@ -1,0 +1,12 @@
+{
+"name": "discord-kpi-bot",
+"version": "1.0.0",
+"type": "module",
+"dependencies": {
+"discord.js": "^14.14.1",
+"dotenv": "^16.4.5",
+"pg": "^8.11.5",
+"@napi-rs/canvas": "^0.1.50",
+"googleapis": "^134.0.0"
+}
+}
